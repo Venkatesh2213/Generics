@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.edu.generics.buffer.collection.SetExampleTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-07-15T11:15:38" hostname="DESKTOP-IUTETS9" time="0.011">
+  <properties/>
+  <testcase name="checkParticularNonExistingPerson" classname="com.edu.generics.buffer.collection.SetExampleTest" time="0.002"/>
+  <testcase name="checkParticularPerson" classname="com.edu.generics.buffer.collection.SetExampleTest" time="0.0"/>
+  <testcase name="retrivePersonUsingForEach" classname="com.edu.generics.buffer.collection.SetExampleTest" time="0.006"/>
+  <testcase name="testUniquePerson" classname="com.edu.generics.buffer.collection.SetExampleTest" time="0.001"/>
+  <testcase name="testUniquePersonSize" classname="com.edu.generics.buffer.collection.SetExampleTest" time="0.0"/>
+  <testcase name="testUniquePersonWithDuplicates" classname="com.edu.generics.buffer.collection.SetExampleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

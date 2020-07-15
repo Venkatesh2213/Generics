@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.edu.generics.classesandinterfaces.AgeComparatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-15T11:15:38" hostname="DESKTOP-IUTETS9" time="0.006">
+  <properties/>
+  <testcase name="sortedOrder" classname="com.edu.generics.classesandinterfaces.AgeComparatorTest" time="0.006"/>
+  <system-out><![CDATA[[Person{name='Peggy Olson', age=65}, Person{name='Don Draper', age=89}, Person{name='Bert Cooper', age=100}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
